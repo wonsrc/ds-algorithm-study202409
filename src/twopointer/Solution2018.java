@@ -1,6 +1,5 @@
-package array;
+package twopointer;
 
-import java.io.BufferedReader;
 import java.util.Arrays;
 import java.util.Scanner;
 
